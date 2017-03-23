@@ -4,3 +4,4 @@ change2 from remote
 change1 from local
 chnage3 from remote
 merged from local
+change4 from remote
